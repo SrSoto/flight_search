@@ -1,0 +1,13 @@
+| Host | Paquetes |
+|---|---|
+| www.ryanair.com | 24 |
+| app.launchdarkly.com | 4 |
+| d.adroll.com | 3 |
+| events.launchdarkly.com | 2 |
+| clientstream.launchdarkly.com | 2 |
+| ryanair.tt.omtrdc.net | 2 |
+| desktopapps.ryanair.com | 2 |
+| services-api.ryanair.com | 2 |
+| assets.adobedtm.com | 1 |
+| widget.criteo.com | 1 |
+| sync.outbrain.com | 1 |

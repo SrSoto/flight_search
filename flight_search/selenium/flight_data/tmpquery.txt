@@ -1,0 +1,46 @@
+SELECT     a.to_c,
+           a.date
+FROM       flights AS a
+JOIN flights AS b
+WHERE      a.to_c = b.to_c
+AND        a.date = b.date
+AND        abs(cast(strftime('%s', a.ts) AS INTEGER) - cast(strftime('%s', b.ts) AS INTEGER)) <= 360000
+AND        a.type = 'cookies'
+AND        b.type = 'nocookies';
+
+
+SELECT     a.company,
+           a.from_c,
+           a.to_c,
+           a.date,
+           Count(b.rowid),
+           Round(Avg(b.price), 2),
+           Max(b.price),
+           Min(b.price)
+FROM       flights AS a
+INNER JOIN flights AS b
+where      a.company = b.company
+AND        a.from_c = b.from_c
+AND        a.to_c = b.to_c
+AND        a.date = b.date
+AND        abs(cast(strftime('%s', a.ts AS INTEGER) - cast(strftime('%s', b.ts) AS INTEGER)) <= 30
+AND        a.type = 'cookies'
+GROUP BY   a.rowid;
+
+
+
+SELECT  a.to_c,
+        COUNT(a.rowid),
+        a.date,
+        abs(cast(a.ts AS decimal(6,4)) - cast(b.ts AS decimal(6,4))),
+        a.price - b.price AS pricediff
+        FROM flights AS a
+        INNER JOIN flights AS b
+        WHERE a.to_c = b.to_c
+        AND a.date = b.date
+        AND a.type = 'tor'
+        AND b.type = 'nocookies'
+        AND abs(cast(a.ts AS FLOAT) - cast(b.ts AS FLOAT)) <= 60
+        ORDER BY pricediff DESC;
+				
+

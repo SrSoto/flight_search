@@ -1,0 +1,29 @@
+| Host | Paquetes |
+|---|---|
+| www.iberia.com | 24 |
+| decollector.tealeaf.ibmcloud.com | 17 |
+| *.krxd.* | 7 |
+| attribution.iberia.com  | 5 |
+| *.criteo.com | 5 |
+| api.flocktory.com | 5 |
+| service.maxymiser.net | 3 |
+| bat.bing.com | 3 |
+| www.google-analytics.com | 2 |
+| www.googleadservices.com | 2 |
+| www.facebook.com | 1 |
+| stats.g.doubleclick.net | 1 |
+| www.google.com | 1 |
+| bucket.cdnwebcloud.com | 1 |
+| ayuda.iberia.com | 1 |
+| s3.eu-central-1.amazonaws.com | 1 |
+| platform.twitter.com | 1 |
+| static.ads-twitter.com | 1 |
+| analytics.twitter.com | 1 |
+| push.services.mozilla.com | 1 |
+
+
+
+<host ip="93.184.220.66">platform.twitter.com</host>
+<host ip="151.101.120.157">static.ads-twitter.com</host>
+<host ip="104.244.42.3">analytics.twitter.com</host>
+<host ip="52.27.151.4">push.services.mozilla.com</host>

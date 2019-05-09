@@ -1,0 +1,78 @@
+1554549176140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xDve1fDZXPwc"
+*** You are running in headless mode.
+1554549176375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554549176376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554549176376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554549178447	Marionette	INFO	Listening on port 34203
+1554549178576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://client.perimeterx.net/PXwc27j6fY/main.min.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://client.perimeterx.net/PXwc27j6fY/main.min.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://client.perimeterx.net/PXwc27j6fY/main.min.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://client.perimeterx.net/PXwc27j6fY/main.min.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.adobedtm.com/20561d9e7a4cb629444c81a32b771b952d25db7b/scripts/satellite-5849663c64746d675c00ae7a.js, line 1039: SecurityError: The operation is insecure.
+1554549187167	Marionette	INFO	Stopped listening on port 34203
+[Parent 16258, Gecko_IOThread] WARNING: pipe error (67): Conexión reinicializada por la máquina remota: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1554549439593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7YKXjmakzMKi"
+1554549439596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0TmSGkGc0vqR"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1554549439859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554549439859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554549439859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554549439926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554549439927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554549439927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554549442632	Marionette	INFO	Listening on port 42065
+1554549442738	Marionette	INFO	Listening on port 37061
+1554549442757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554549442814	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17358): dconf-WARNING **: 13:17:26.827: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permiso denegado
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery-1.9.0.min.js?CF=251.3, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:17343): dconf-WARNING **: 13:17:27.186: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permiso denegado
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery-1.9.0.min.js?CF=251.3, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/home-grouped-js-min.js?CF=251.3, line 6: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/home-grouped-js-min.js?CF=251.3, line 6: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1554549448551	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554549448780	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554549448825	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/home-grouped-js-min.js?CF=251.3, line 6: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/home-grouped-js-min.js?CF=251.3, line 6: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery-1.9.0.min.js?CF=251.3, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+JavaScript error: https://www.iberia.com/ibcomv3/js/simp_forms.js?CF=251.3, line 1806: ReferenceError: ev is not defined
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery-1.9.0.min.js?CF=251.3, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/jquery.validate.js?CF=251.3, line 1502: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/main.js?CF=251.3, line 2282: unreachable code after return statement
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.iberia.com/ibcomv3/rbrand/scripts/libs/iberialib.js?seed=AIAfTvJpAQAACt_eGkqcg4gJX9DInIR4uZTvqholIvGxKanfJxZyxftDyJdG, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1554549456981	Marionette	INFO	Stopped listening on port 42065
+[Parent 16999, Gecko_IOThread] WARNING: pipe error (67): Conexión reinicializada por la máquina remota: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
